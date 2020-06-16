@@ -164,6 +164,17 @@ b{
     justify-content: center;
 }
 
+.why{
+    background-image: linear-gradient(180deg, #6B48CC 0%, #312ECA 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+
 .buttonResume{    
     display: flex;
     height: 50px;
