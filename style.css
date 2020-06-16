@@ -158,7 +158,8 @@ b{
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     font-size: 32px;
-    margin: 5px;
+    font-size: 34px;
+     margin: 12px;
     display: flex;
     justify-content: center;
 }
