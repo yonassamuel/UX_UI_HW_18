@@ -57,7 +57,14 @@ nav{
 
 .icons{
     margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
     
+}
+
+.skillList p{
+    text-align:center;
 }
 
 .skillList li{
