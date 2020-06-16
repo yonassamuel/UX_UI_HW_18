@@ -157,9 +157,8 @@ b{
     background-clip: text;
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
-    font-size: 32px;
     font-size: 34px;
-     margin: 12px;
+    margin: 10px;
     display: flex;
     justify-content: center;
 }
