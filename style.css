@@ -44,12 +44,20 @@ nav{
     display: flex;
     font-family: K2D;
     font-size: 25px;
+    margin: auto;
+    width: 90%;
+    padding: 30px;
 
 }
 
 .flexContainer div{
     width: 33%;
     padding: 5px;
+}
+
+.flexContainer img{
+    
+    
 }
 
 .skillList li{
